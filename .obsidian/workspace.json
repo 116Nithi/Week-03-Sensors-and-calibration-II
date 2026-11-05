@@ -1,66 +1,41 @@
 {
   "main": {
-    "id": "2a6e6b553b49052b",
+    "id": "91521bdf6d74a768",
     "type": "split",
     "children": [
       {
-        "id": "92db0ed968e605d2",
+        "id": "9d3a4b9c2c208701",
         "type": "tabs",
         "children": [
           {
-            "id": "93ee13b7ff09c935",
+            "id": "914d1bc10e559287",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Week-03.md",
-                "mode": "source",
-                "source": false
+                "aFile": "67039999/Report.md",
+                "bFile": "67039999/Report.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Week-03"
-            }
-          },
-          {
-            "id": "455cc4c021e50156",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week-03-Lab-sheet-03-LDR-and-calibration.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Week-03-Lab-sheet-03-LDR-and-calibration"
-            }
-          },
-          {
-            "id": "9a106e6448cece86",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "diff",
+              "title": "Diff: Report  (Working Tree)"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "43b658e185c035a6",
+    "id": "8188bb1ed869ea02",
     "type": "split",
     "children": [
       {
-        "id": "c0db8b4006999729",
+        "id": "efed9a0a7b73a077",
         "type": "tabs",
         "children": [
           {
-            "id": "5ca44c9980b47a65",
+            "id": "71230346fe056fc1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -73,7 +48,7 @@
             }
           },
           {
-            "id": "813e99496be2389a",
+            "id": "4adf95583b63587b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -90,7 +65,7 @@
             }
           },
           {
-            "id": "7873bd128713b875",
+            "id": "b717b6a72d4c56b6",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -103,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 219.5
   },
   "right": {
-    "id": "b7eefab27bac9b50",
+    "id": "177091d43df982aa",
     "type": "split",
     "children": [
       {
-        "id": "b170ecebf3ebd7ab",
+        "id": "e76243e442db967e",
         "type": "tabs",
         "children": [
           {
-            "id": "90aae310ace5b93d",
+            "id": "d99814780b6af49f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week-03.md",
+                "file": "Week-03-03-Physical to Electrical to Digital.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Week-03"
+              "title": "Backlinks for Week-03-03-Physical to Electrical to Digital"
             }
           },
           {
-            "id": "061b7552a20d9c23",
+            "id": "dd15304c76e29e26",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week-03.md",
+                "file": "Week-03-03-Physical to Electrical to Digital.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Week-03"
+              "title": "Outgoing links from Week-03-03-Physical to Electrical to Digital"
             }
           },
           {
-            "id": "5ee8c65d03a692d4",
+            "id": "218cb500d48c9f8f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -162,7 +137,7 @@
             }
           },
           {
-            "id": "5e698ef8b6c89b52",
+            "id": "10288cb5bc2a41fb",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -176,22 +151,22 @@
             }
           },
           {
-            "id": "b83a9a70a10451ec",
+            "id": "75abcf953e966226",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week-03.md",
+                "file": "Week-03-Lab-sheet-03-LDR-and-calibration.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Week-03"
+              "title": "Outline of Week-03-Lab-sheet-03-LDR-and-calibration"
             }
           },
           {
-            "id": "b8af608137b85892",
+            "id": "85788eb0f92ec94b",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -199,13 +174,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "50f4ebebce540ee8",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "mermaid-toolbar-view"
+            }
           }
         ],
         "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 396.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,32 +201,32 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "b8af608137b85892",
+  "active": "914d1bc10e559287",
   "lastOpenFiles": [
-    "2026-07-20.md",
-    "67030116/Week-03-Lab-sheet-03-LDR-and-calibration.md",
-    "Pasted image 20260720030424.png",
-    "67030116 - ส่งงาน.md",
-    "67030116",
+    "67039999/Report.md",
     "Week-03.md",
-    "README.md",
+    "67039999",
     "Week-03-01_Physical_World.md",
-    "esp32-firmware/build/log/idf_py_stdout_output_12372",
-    "esp32-firmware/build/log/idf_py_stderr_output_12372",
-    "esp32-firmware/build/log/idf_py_stdout_output_15828",
-    "esp32-firmware/build/log/idf_py_stderr_output_15828",
-    "esp32-firmware/build/log/idf_py_stdout_output_2200",
-    "esp32-firmware/build/log/idf_py_stderr_output_2200",
-    "esp32-firmware/build/esp32-firmware.bin",
-    "esp32-firmware/build/bootloader-prefix/src/bootloader-stamp/bootloader-done",
-    "esp32-firmware/build/CMakeFiles/bootloader-complete",
-    "Week-03-05-Signal-Integrity.md",
-    "Week-03-04-Sensor-vs-Transducer.md",
-    "Week-03-03-Physical to Electrical to Digital.md",
     "Week-03-02-Digital-World.md",
-    "67039999/Homework 67039999.md"
+    "Week-03-03-Physical to Electrical to Digital.md",
+    "Week-03-04-Sensor-vs-Transducer.md",
+    "Week-03-05-Signal-Integrity.md",
+    "Week-03-Lab-sheet-03-LDR-and-calibration.md",
+    "README.md",
+    "Images/Lab-Cover.png",
+    "Images/Week-03-Cover.png",
+    "Images/Add_Scatter_Chart.png",
+    "Pasted image 20260713013048.png",
+    "Images/Add-Trend-Line.png",
+    "Images/Select_data.png",
+    "Images/input_data.png",
+    "Images/What_is_LDR.png",
+    "Gemini_Generated_Image_bahsrjbahsrjbahs 1.png",
+    "Images/LDR_and_R10k.png",
+    "Week-03-Sensors-and-calibration-II.md"
   ]
 }
